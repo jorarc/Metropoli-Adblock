@@ -6,7 +6,10 @@
 // @author       jarcas
 // @match        https://metropoliabierta.elespanol.com/*
 // @grant        none
+// @updateURL    https://github.com/jorarc/Metropoli-Adblock/edit/main/Metropoli-AdBlocker.js
+// @downloadURL  https://github.com/jorarc/Metropoli-Adblock/edit/main/Metropoli-AdBlocker.js
 // ==/UserScript==
+
 
 (function() {
     'use strict';
