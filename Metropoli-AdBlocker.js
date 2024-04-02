@@ -5,6 +5,7 @@
 // @description  Efficiently block specific pop-ups/ads on Metropoli Abierta
 // @author       jarcas
 // @match        https://metropoliabierta.elespanol.com/*
+// @icon         https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://metropoliabierta.elespanol.com&size=64
 // @grant        none
 // @updateURL    https://github.com/jorarc/Metropoli-Adblock/edit/main/Metropoli-AdBlocker.js
 // @downloadURL  https://github.com/jorarc/Metropoli-Adblock/edit/main/Metropoli-AdBlocker.js
